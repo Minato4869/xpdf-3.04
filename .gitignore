@@ -1,0 +1,14 @@
+libGoo.a
+libfofi.a
+libfofi.a
+*.o
+xpdf
+pdftops
+pdftotext
+pdftohtml
+pdfinfo
+pdffonts
+pdfdetach
+pdftoppm
+pdftopng
+pdfimages
