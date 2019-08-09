@@ -1,0 +1,1 @@
+./configure --with-freetype2-includes=/usr/include/freetype2/
